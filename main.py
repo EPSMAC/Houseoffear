@@ -38,8 +38,6 @@ reaktionsantworten = {"Seite1":
                              "tisch" : "Der Tisch ist komplett lehrgeräumt und auch unter dem Tisch ist nichts zu sehen.",
                              "paletten" : "Es handelt sich um leicht vermoderte Paletten, die in jedem Baumarkt erhältlich sind.",
                              "hütte" : "Als ihr die Hütte betretet findet ihr einen Zettel auf dem seltsame Zeichen und Zahlen zu sehen sind",
-                             "häuschen" : "Als ihr das Häuschen betretet findet ihr einen Zettel auf dem seltsame Zeichen und Zahlen zu sehen sind",
-                             "Schuppen" : "Als ihr den Schuppen betretet findet ihr einen Zettel auf dem seltsame Zeichen und Zahlen zu sehen sind",
                              }
                      }
 reaktionsantwortengames= {"Game1":
